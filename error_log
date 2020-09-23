@@ -1,0 +1,3 @@
+[02-Jul-2020 10:07:40 UTC] PHP Fatal error:  Cannot redeclare Comman_model::related_product() in /home2/bhatiagro/public_html/emarkaw/application/models/Comman_model.php on line 587
+[07-Sep-2020 19:46:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home2/bhatiagro/public_html/batches/system/database/DBEXT' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/bhatiagro/public_html/batches/application/config/routes.php on line 79
+[07-Sep-2020 19:46:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home2/bhatiagro/public_html/batches/system/database/DB' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/bhatiagro/public_html/batches/application/config/routes.php on line 79
